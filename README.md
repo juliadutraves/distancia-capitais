@@ -1,3 +1,3 @@
-# distancia entre capitais brasileiras 
+# DISTANCIA ENTRE CAPITAIS BRASILEIRAS 
 
-aplicaçao utilizando recursos de tabela para construçao da pagina com distncia entre capitais brasileiras
+ Aplicaçao utilizando recursos de tabela para construçao da pagina com distncia entre capitais brasileiras
